@@ -1,13 +1,11 @@
 {
-  "name": "Telegram Leech Bot By Waris",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Made By - WarisAli",
-  "logo": "https://telegra.ph/file/e7689586d3f3477706660.jpg",
+  "name": "Telegram Leech Bot",
+  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram",
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/WarisBotz/LEECH-TELEGRAM-BOT",
-  "success_url": "https://t.me/TEAMMOVIEZCINEMASADMINBOT",
-  "website": "https://github.com/WarisBotz/LEECH-TELEGRAM-BOT",
+  "repository": "https://github.com/Junan02/LEECH-TELEGRAM-BOT.git",
+  "website": "https://github.com/Junan02/LEECH-TELEGRAM-BOT.git",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
